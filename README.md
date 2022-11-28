@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-wiseman
 - 👀 I’m interested in Working on Native Android Project
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Native Android Projects
 - 📫 How to reach me ... paulndibe92@gmail.com
 
